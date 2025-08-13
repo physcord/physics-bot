@@ -1,0 +1,5 @@
+[Bot]
+token=<token>
+monitor_channel=<channel ID>
+modmail_channel=<channel ID>
+max_count=<select a number of messages after which to post the reminder>
